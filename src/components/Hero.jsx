@@ -38,7 +38,7 @@ const Hero = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat scale-110" // Increased scale for bigger effect
           style={{
-            backgroundImage: 'url("/building.jpg")',
+            backgroundImage: 'url("/heroimage.jpg")',
             transform: `translateX(${mousePosition.x * 0.1}px) translateY(${mousePosition.y * 0.8}px) scale(1.1)`, // Enhanced parallax
             transition: 'transform 0.1s ease-out'
           }}
