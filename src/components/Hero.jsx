@@ -129,7 +129,7 @@ const Hero = () => {
                 repeat: Infinity
               }}
             />
-            <span className="text-white/90 text-base font-semibold tracking-wide">Innovating Healthcare Since 2012</span>
+            <span className="text-white/90 text-base font-semibold tracking-wide">Innovating Healthcare Since 2013</span>
           </motion.div>
 
           {/* Enhanced Main Headline with Smaller Text but Bigger Animations */}
